@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'From Paris to Pekin over Siberian Snows
 
   A Narrative of a Journey by Sledge over the Snows of European Russia and Siberia,
